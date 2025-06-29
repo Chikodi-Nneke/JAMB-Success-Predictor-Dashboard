@@ -24,7 +24,7 @@ The analysis utilises a comprehensive dataset sourced from Kaggle for tudent per
 
 ## Usage 
 
-- Use Power Query to clean and prepare raw CSV data files in the /data folder.
+- Use Power Query to clean and prepare the raw CSV data file.
 - Open JAMBStudentDashboard.pbix in Power BI Desktop.
 - Use the dashboard slicers to filter by gender, school location, and school type.
 
