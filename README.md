@@ -24,8 +24,32 @@ The analysis utilises a comprehensive dataset sourced from Kaggle for tudent per
 
 ## Usage 
 
-- Use Power Query to clean and prepare the raw CSV data file.
-- Open JAMBStudentDashboard.pbix in Power BI Desktop.
+- Use Power Query to clean and prepare raw CSV data files in the /data folder.
+- Open JAMB_Success_Predictor_Dashboard.pbix in Power BI Desktop.
 - Use the dashboard slicers to filter by gender, school location, and school type.
 
 
+## Results and Insights
+
+- Parental Education Correlates with Student Performance: The analysis shows that students with parents who have tertiary education or some form of education consistently score higher than those whose parents do not have any form of education. This supports the idea of intergenerational influence on academic outcomes.
+- Attendance Rate and Study Hours Positively Correlate with Scores: The scatter plot and line chart illustrate strong upward trends and a positive correlation between study hours and attendance. Based on these results, it appears that even a small increase in attendance and study hours can significantly improve scores, which is consistent with the "What If?" scenario tool.
+- Student performance by socioeconomic group shows a big gap, with students from higher socioeconomic backgrounds outperforming those from lower backgrounds, reinforcing the need for targeted support.
+
+
+## Recommendations
+
+- Promote and facilitate effective weekly study hours by implementing structured study sessions, offer workshops on effective study techniques and time management, and ensure access to conducive learning environments.
+- Prioritize and incentivize consistent student attendance by launching targeted campaigns or incentive programs to raise attendance rates, particularly among low-SES and underperforming groups.
+- Strengthen parental education support initiatives by developing accessible workshops for parents focusing on academic support strategies, resource provision, and fostering educational aspirations at home.
+- Develop data-driven, holistic intervention strategies that continuously monitor trends, identify at-risk students, and tailor interventions that address not only academic gaps but also attendance habits, home-based support, and effective study practices.
+
+
+## Contact & Support
+
+For questions or collaboration, please contact Chikodinaka Nneke at chikodinneke@gmail.com or open an issue on this repo.
+
+
+## References & Resources
+
+- Power BI Report
+- [Data Source](https://www.kaggle.com/datasets/idowuadamo/students-performance-in-2024-jamb)
