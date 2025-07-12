@@ -51,5 +51,5 @@ For questions or collaboration, please contact Chikodinaka Nneke at chikodinneke
 
 ## References & Resources
 
-- Power BI Report
+- [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDliMDk2NjQtY2UyZS00N2U1LWExZjItNWY1Y2NjMzU2NDNiIiwidCI6IjU5NGFiMDZmLTFiZTQtNGIwMi1iZjU4LTIyY2ZmZTljMmExMSJ9)
 - [Data Source](https://www.kaggle.com/datasets/idowuadamo/students-performance-in-2024-jamb)
