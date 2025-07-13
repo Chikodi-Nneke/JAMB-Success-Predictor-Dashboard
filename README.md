@@ -19,7 +19,9 @@ Students often face significant challenges in achieving optimal performance in t
 
 ## Data
 
-The analysis utilises a comprehensive dataset sourced from Kaggle for tudent perfromance in JAM 2024, comprising 17 columns of student performance and background information. Key fields include: Gender, Age, JAMB Scores, Socioeconomic Status, Parental Education Level, Attendance Rate, and Weekly Study Hours. All sensitive data has been anonymized to ensure privacy.
+The analysis utilises a comprehensive dataset sourced from Kaggle for tudent perfromance in JAM 2024, comprising 17 columns of student performance and background information.
+
+Key fields include: Gender, Age, JAMB Scores, Socioeconomic Status, Parental Education Level, Attendance Rate, and Weekly Study Hours. All sensitive data has been anonymized to ensure privacy.
 
 
 ## Usage 
